@@ -1,6 +1,6 @@
 {
   "name": "@react-native-oh-tpl/react-native-drag-sort",
-  "version": "2.4.4",
+  "version": "2.4.4-0.1.0",
   "description": "Drag and drop sort control for react-native",
   "main": "index",
   "scripts": {
