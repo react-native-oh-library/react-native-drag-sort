@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-drag-sort",
-  "version": "2.4.4-0.1.0",
+  "name": "@react-native-ohos/react-native-drag-sort",
+  "version": "2.4.4",
   "description": "Drag and drop sort control for react-native",
   "main": "index",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mochixuan/react-native-drag-sort.git"
+    "url": "git+https://github.com/react-native-oh-library/react-native-drag-sort.git"
   },
   "keywords": [
     "drag",
@@ -28,9 +28,9 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/mochixuan/react-native-drag-sort/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-drag-sort/issues"
   },
-  "homepage": "https://github.com/mochixuan/react-native-drag-sort#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-drag-sort#readme",
   "harmony": {
     "alias": "react-native-drag-sort"
   }
