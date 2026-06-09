@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-drag-sort
+# @react-native-ohos/react-native-drag-sort
 
 This project is based on [react-native-drag-sort](https://github.com/mochixuan/react-native-drag-sort)
 
