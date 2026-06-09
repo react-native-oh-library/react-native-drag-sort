@@ -4,9 +4,9 @@ This project is based on [react-native-drag-sort](https://github.com/mochixuan/r
 
 ## Documentation
 
-- [中文](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/zh-cn/react-native-drag-sort.md)
+- [中文](https://gitcode.com/CPF-RN/usage-docs/blob/master/zh-cn/react-native-drag-sort.md)
 
-- [English](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/en/react-native-drag-sort.md)
+- [English](https://gitcode.com/CPF-RN/usage-docs/blob/master/en/react-native-drag-sort.md)
 
 ## License
 
